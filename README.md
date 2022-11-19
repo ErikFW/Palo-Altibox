@@ -1,4 +1,4 @@
-# URL-Category Exception to make ALtibox app work
+# URL-Category Exception to make Altibox app work
 
 Etter å ha oppdaget at Altibox app ikke lenger fungerer etter konfigurering av PANW NGFW, prøvde jeg å finne en løsning.
 Det viser seg at Altibox appen kontakter et knippe med IP adresser for å initiere datastrømmen for den kanelen du vil se på.
