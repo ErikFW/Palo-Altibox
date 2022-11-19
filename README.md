@@ -10,7 +10,7 @@ Løsningen ble å lage en unntaks regel for Altibox appen som tillater trafikk f
 
 Jeg har satt opp et filter i loggene for å fange de IPene som blir stoppet og legger disse inn i regelen.
 
-Denne listen er eksportert ut og er tilgjengelig her på Github 
+Denne listen er eksportert ut og er tilgjengelig her på Github, filen blir oppdatert etterhvert som jeg oppdager nye IP'er som blir blokkert i brannmuren.
 
 ## Hvordan sette opp regelen ##
 
