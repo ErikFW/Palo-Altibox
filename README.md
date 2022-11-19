@@ -14,7 +14,7 @@ Denne listen er eksportert ut og er tilgjengelig her på Github, filen blir oppd
 
 ## Hvordan sette opp regelen ##
 
-I din Palo Alto brannmur, gå til Object - Custom OBjects - URL Category
+I din Palo Alto brannmur, gå til Object - Custom Objects - URL Category
 Klikk Add nederst i bildet
 I dialogboksen som dukker opp fyller du inn følgende
 Name: Allow-Altibox
